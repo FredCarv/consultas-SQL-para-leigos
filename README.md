@@ -4,7 +4,7 @@ Portanto, caso você trabalhe em uma empresa na qual exista um time de dados, ma
 
 ## Guia de como usar
 ### Acesso simples
-A forma mais simples e direta de acessar o guia é através do [Link](https://excalidraw.com/#json=EIOkNYC4MNxH3l5ugDhbr,Z_UEki_uYnvpdEZUUNuFmg)
+A forma mais simples e direta de acessar o guia é através do [Link](https://excalidraw.com/#json=FFULfSx2CeKdogGmnsCSV,T1AERQC2vRaC1dhd5L1Paw)
 Na pasta `conteudo para download/` você encontra o guia no formato PNG e também no formato .excalidraw, sendo Excalidraw o site utilizado para criar esse guia. Trata-se de um site voltado para criação de diagramas, onde não é necessário criar uma conta ou forncer seus dados para poder utilizá-lo, somente nas versões pagas, mas a gratuita já é ótima para seu uso no dia a dia e para acessar esse guia.
 ### Acesso editável
 Na pasta `manual de uso/` você encontra um passo a passo caso queira abrir o arquivo .excalidraw no próprio site deles e editar o guia, caso queira fazer edições e complementar. Acesse o site do [Excalidraw](https://excalidraw.com/) e siga o passo a passo a partir daí.
